@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 all
+Codename: trixie
+Components: main
+Date: Wed, 25 Nov 2026 05:52:56 +0000
+Label: TF OS
+Origin: TF OS
+Suite: trixie
+MD5Sum:
+ 51fbdaa4e1490eb39b2162c47a94e209              138 Release
+ 425295d6deaa54ade6e980df82e0ff4e              943 main/binary-all/Packages
+ 55a0f7e2189926726b5fa6e308a30296              654 main/binary-all/Packages.gz
+ 425295d6deaa54ade6e980df82e0ff4e              943 main/binary-amd64/Packages
+ 55a0f7e2189926726b5fa6e308a30296              654 main/binary-amd64/Packages.gz
+SHA1:
+ 0e42f0466b8afda4022fd964bccf29665a8ca970              138 Release
+ f2b6a35cdadc847b1ad4d559338f19a2610cea52              943 main/binary-all/Packages
+ a4a2097e3e3b992baf08d79d3acc661f736445f0              654 main/binary-all/Packages.gz
+ f2b6a35cdadc847b1ad4d559338f19a2610cea52              943 main/binary-amd64/Packages
+ a4a2097e3e3b992baf08d79d3acc661f736445f0              654 main/binary-amd64/Packages.gz
+SHA256:
+ b11055edb3a64f4187a9203faba33aa9dc95eaff2ed29d578bac5377f9c46651              138 Release
+ fd303d8c8ddb969c0d99248c2fc53a718f1f39e621b6aa79f4b56a65aea5ee09              943 main/binary-all/Packages
+ b0068d9e5f884ddf1a6225e493ee1f67b3417e763e74071a0846335298729190              654 main/binary-all/Packages.gz
+ fd303d8c8ddb969c0d99248c2fc53a718f1f39e621b6aa79f4b56a65aea5ee09              943 main/binary-amd64/Packages
+ b0068d9e5f884ddf1a6225e493ee1f67b3417e763e74071a0846335298729190              654 main/binary-amd64/Packages.gz
+SHA512:
+ 642a69d052370291b00aed7f67809c2f66814f71bd472c70751d7a8b2de629c88aa4ade383987e44d059b7e4d6022f5b71878c14fa7a2bc3adb6e125473d0531              138 Release
+ ff2af027729d7d5233c043cf523bf3e6a28a0729a88dcd0602cbc138ef55c8e62e6082ee53769315577075fc81584977ced85ce8b7dd15b783b3366a12ecc563              943 main/binary-all/Packages
+ 8e2f14650538ecc1318a5132ce0d1a768e0c0bcd40b0765287efd263d59ff14b8257afb2ae24cf0b27d6707b56a33e4677ab541c54a38837f5267dbeb530a432              654 main/binary-all/Packages.gz
+ ff2af027729d7d5233c043cf523bf3e6a28a0729a88dcd0602cbc138ef55c8e62e6082ee53769315577075fc81584977ced85ce8b7dd15b783b3366a12ecc563              943 main/binary-amd64/Packages
+ 8e2f14650538ecc1318a5132ce0d1a768e0c0bcd40b0765287efd263d59ff14b8257afb2ae24cf0b27d6707b56a33e4677ab541c54a38837f5267dbeb530a432              654 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTt95sBNiKG/eBuw2yJvCKYiBfc3wUCawZ3uAAKCRCJvCKYiBfc
+33m+AP0X9Y8GcotdhuQH3oJ8T/SF6d0fwga+r3gwgkQ0AJUrzQEAj33nzHbrfHYD
+aUYZMh9i/dQ6nL7L0r42q26cNI973gM=
+=uOxT
+-----END PGP SIGNATURE-----

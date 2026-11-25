@@ -1,0 +1,18 @@
+Package: tfos-base
+Architecture: all
+Version: 0.1.202611250552
+Priority: optional
+Section: misc
+Maintainer: TF OS Project <tfos@tallfan.com>
+Depends: dconf-cli, ufw, systemd-resolved, usbguard, unattended-upgrades, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1, pkexec, polkitd, gnupg, cryptsetup, restic, rclone, zenity, libsecret-tools, jq, curl
+Filename: pool/main/tfos-base_0.1.202611250552_all.deb
+Size: 191712
+MD5sum: 1799e607f3ccd85285528ded1837c0be
+SHA1: 6cc5e9e49754712287e386c47a7349abd1731635
+SHA256: dfeb7606a33c5d316b03bb09cbb845d569305b6f3a6a02ff098f0f62cdbf82eb
+SHA512: a25234dc01229a1c23c36bb164a987c4193f316e56d81b055635ab1b213be024c171143db50df47a51a69b0c87a811873da25811f0311a4722c06c39e2a621c9
+Description: TF OS system files, apps and defaults
+ TF OS branding, desktop defaults, TF Setup, TF Cloud sign-in and backup,
+ and the tf-security privacy and security settings. Updated automatically
+ from the Tall Fan update server.
+
